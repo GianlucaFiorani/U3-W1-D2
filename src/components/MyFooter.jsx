@@ -1,7 +1,7 @@
 function MyFooter() {
   return (
     <>
-      <p className="bg-dark text-white text-center py-4">footer pagina</p>
+      <p className="bg-dark text-white text-center py-4 mt-4">footer pagina</p>
     </>
   );
 }
